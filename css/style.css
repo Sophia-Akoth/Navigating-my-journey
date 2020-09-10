@@ -82,6 +82,17 @@ h2{
 	text-align: center;
     
 }
+h5{
+	text-align: center;
+	font-size: 20px;
+	padding-bottom: 0px;
+}
+.csd{
+	padding-left: 15px;
+	padding-top: 0;
+
+}
+
 #intro{
 	text-align: center;
 }
